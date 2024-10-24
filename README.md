@@ -2,7 +2,7 @@
 
 **Wallet-X** is a web-based application that allows users to generate and manage both Ethereum and Solana wallets from a single mnemonic seed phrase. The app provides an easy-to-use interface for generating wallets, displaying public/private keys, and fetching real-time balances on the respective networks.
 
-![Wallet-X Interface](./screenshots/wallet-x-interface.png)
+![Wallet-X Interface](https://github.com/Neautrino/Wallet-X/blob/master/screenshot.png)
 
 ## Features
 
